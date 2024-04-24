@@ -5,9 +5,13 @@
 
 
 ![image]({
-          [(https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]
+          https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
           }
 )
   
+
+![image]({BadgeURLHere})
+
+
 
 <img src="[{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}]" />
