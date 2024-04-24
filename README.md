@@ -14,7 +14,6 @@
           }
 )
 
-GET /node/v-lts/:packageName
 
 https://img.shields.io/node/v-lts/:badge-maker
 
