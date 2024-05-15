@@ -2,6 +2,7 @@
 
 - 👯 I’m looking to collaborate on web development and data analysis
 - 📫 How to reach me: joaojoserodeso@gmail.com
+- 📫 You may also reach me: linkedin.com/in/joao-jose-sousa-developer
   
 * Stacks
   
